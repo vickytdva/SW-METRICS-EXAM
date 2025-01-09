@@ -1,0 +1,7 @@
+test_math_pow.py:4:1: E302 expected 2 blank lines, found 1
+test_math_pow.py:8:1: W293 blank line contains whitespace
+test_math_pow.py:11:1: W293 blank line contains whitespace
+test_math_pow.py:14:1: W293 blank line contains whitespace
+test_math_pow.py:17:1: W293 blank line contains whitespace
+test_math_pow.py:21:1: E305 expected 2 blank lines after class or function definition, found 1
+test_math_pow.py:23:1: W391 blank line at end of file
