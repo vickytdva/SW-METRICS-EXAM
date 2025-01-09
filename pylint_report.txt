@@ -1,0 +1,13 @@
+************* Module test_math_pow
+test_math_pow.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+test_math_pow.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+test_math_pow.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+test_math_pow.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+test_math_pow.py:23:0: C0305: Trailing newlines (trailing-newlines)
+test_math_pow.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test_math_pow.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+test_math_pow.py:5:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 2.73/10
+
